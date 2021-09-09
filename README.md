@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @M0dd1
+- 👀 I’m interested in COBOL, Java, Datastage, R, SQL
+- 🌱 I’m currently learning R, Powershell
